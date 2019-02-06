@@ -7,4 +7,14 @@
 .hit {
   background: crimson !important; }
 
+.counter {
+  display: inline-block;
+  border: 2px solid black;
+  height: 25px;
+  width: 100px;
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  margin: auto; }
+
 /*# sourceMappingURL=style.css.map */
